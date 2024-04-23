@@ -1,4 +1,4 @@
-# Open-Drift
+# Open-Drift-Platform
 
 The Open Drift platform strives to create an Open-Source alternative to the scarce but growing 1/24 drift scene.
 We aspire to have an open and welcoming community with a vast and expansive aftermarket scene.
